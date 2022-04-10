@@ -3,4 +3,16 @@
     width: 600px;
     padding: 30px;
     color: #fff;
+    margin: 0px auto;
+}
+.label-block {
+    display: block;
+}
+.mb-1 {
+    margin-bottom: 10px;
+}
+.form-control {
+    display: block;
+    padding: 0.375rem 0.750rem;
+    width: 100%;
 }
