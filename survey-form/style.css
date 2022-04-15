@@ -5,30 +5,28 @@
     color: #fff;
     margin: 0px auto;
 }
+
 .label-block {
     display: block;
 }
-<<<<<<< HEAD
 
 .mb-1 {
     margin-bottom: 10px;
 }
 
-=======
+
 .mb-1 {
     margin-bottom: 10px;
 }
->>>>>>> 89568263a6a73f57069ceccd86c5b4287e9fd0ef
+
 .form-control {
     display: block;
     padding: 0.375rem 0.750rem;
     width: 100%;
 }
-.text-center
-{
-     text-align: center;
-  
-<<<<<<< HEAD
+
+.text-center {
+    text-align: center;
 }
 
 body {
@@ -66,7 +64,7 @@ label {
 }
 
 html {
-    background: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg) no-repeat center center fixed; 
+    background: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -89,6 +87,4 @@ h1 {
 
 button {
     border: none;
-=======
->>>>>>> 89568263a6a73f57069ceccd86c5b4287e9fd0ef
 }
